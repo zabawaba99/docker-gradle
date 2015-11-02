@@ -1,4 +1,5 @@
 FROM java:8-jdk
+MAINTAINER Steven Berlanga <zabawaba99@gmail.com>
 
 ENV GRADLE_VERSION 2.7
 ENV GRADLE_HASH fe801ce2166e6c5b48b3e7ba81277c41
